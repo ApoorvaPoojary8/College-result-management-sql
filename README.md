@@ -49,4 +49,4 @@ This project manages student results using SQL with tables for students, subject
 
 Apoorva Poojary  
 2nd Year CSE Student  
-GitHub: [github.com/ApoorvaPoojary8](https://github.com/ApoorvaPoojary8)
+
